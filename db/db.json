@@ -1,6 +1,18 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title":"E-mails",
+        "text":"Sort through inbox and draft newsletter for Friday"
+    },
+    {
+        "title":"Confirm delivery",
+        "text":"E-mail client for confirmation of delivery and link survey and promo for new products"
+    },
+    {
+        "title":"Update webpage",
+        "text":"Add 2 unreleased products to site for their release on Friday"
+    },
+    {
+        "title":"Team lunch Thursday",
+        "text":"Lunch in confernce room @ 12 on Thursday to go over prepare for new product launch"
     }
 ]
