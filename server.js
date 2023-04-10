@@ -3,6 +3,12 @@ const express = require('express');
 // Import 'path' package
 const path = require('path');
 
+
+// Import 'fs'
+
+// Import 'util'?
+
+
 // 
 const noteData = require('./db/db.json');
 
@@ -11,6 +17,10 @@ const PORT = 3001;
 
 // Initialize instance of Express.js
 const app = express();
+
+
+// Add more middleware
+
 
 // Static middleware pointing to the public folder
 app.use(express.static('public'));
