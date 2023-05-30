@@ -1,18 +1,22 @@
 [
     {
-        "title":"E-mails",
-        "text":"Sort through inbox and draft newsletter for Friday"
+        "title": "E-mails",
+        "text": "Sort through inbox and draft newsletter for Friday",
+        "id": "1df02c99-c44e-42fd-9aa2-57506e79d604"
     },
     {
-        "title":"Confirm delivery",
-        "text":"E-mail client for confirmation of delivery and link survey and promo for new products"
+        "title": "Confirm delivery",
+        "text": "E-mail client for confirmation of delivery and link survey and promo for new products",
+        "id": "8b0de887-71a5-4eb3-a11d-5cd0e4f97e7b"
     },
     {
-        "title":"Update webpage",
-        "text":"Add placeholders for 2 products to site for their release on Friday"
+        "title": "Update webpage",
+        "text": "Add placeholders for 2 products to site for their release on Friday",
+        "id": "76400bcb-9673-442e-8bab-f5183a1ac7b0"
     },
     {
-        "title":"Team lunch Thursday",
-        "text":"Lunch in confernce room @ 12 on Thursday to prepare for new products launch"
+        "title": "Team lunch Thursday",
+        "text": "Lunch in conference room @ 12 on Thursday to prepare for new products launch",
+        "id": "4d088950-0b9c-4c8b-88bc-0c20e96f2bbc"
     }
 ]
